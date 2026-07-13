@@ -7,3 +7,5 @@ kgf2moviereview = https://artificial-intelligence-summer-internship-vzlbbnf579vs
 star health = https://star-health-insurance-9caoh3vexvo99ty8wds8z8.streamlit.app
 
 project2 outliers = https://h5nmgpknm8txc8revuwuqr.streamlit.app/
+
+project 3 outliers = https://project-3-outliers-bsqfgys6v6vkxfafr8gjxd.streamlit.app/
