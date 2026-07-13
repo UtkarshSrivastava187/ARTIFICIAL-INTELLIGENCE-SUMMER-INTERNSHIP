@@ -9,3 +9,5 @@ star health = https://star-health-insurance-9caoh3vexvo99ty8wds8z8.streamlit.app
 project2 outliers = https://h5nmgpknm8txc8revuwuqr.streamlit.app/
 
 project 3 outliers = https://project-3-outliers-bsqfgys6v6vkxfafr8gjxd.streamlit.app/
+
+project 4 = https://project-4-logistic-regression-jmeme9725ljejaekxqthua.streamlit.app/
