@@ -1,10 +1,10 @@
-employee_retention_link = https://artificial-intelligence-summer-internship-mpbdihndgavxmba3xnsj.streamlit.app/
+employee_retention_link 1 = https://artificial-intelligence-summer-internship-mpbdihndgavxmba3xnsj.streamlit.app/
 
 project 6 KMean = https://project-6-kmeans-3twi4oksq3cm4ktfzpdgsp.streamlit.app/
 
-kgf2moviereview = https://artificial-intelligence-summer-internship-vzlbbnf579vsbpjqpmm6.streamlit.app/
+kgf2moviereview 10 = https://artificial-intelligence-summer-internship-vzlbbnf579vsbpjqpmm6.streamlit.app/
 
-star health = https://star-health-insurance-9caoh3vexvo99ty8wds8z8.streamlit.app
+star health 7 = https://star-health-insurance-9caoh3vexvo99ty8wds8z8.streamlit.app
 
 project2 outliers = https://h5nmgpknm8txc8revuwuqr.streamlit.app/
 
@@ -15,3 +15,5 @@ project 4 = https://project-4-logistic-regression-jmeme9725ljejaekxqthua.streaml
 project 5 = https://male-female-classifier-ckjykjkda92csek7ffzk6u.streamlit.app/
 
 project 8 = https://knnalgorithm-nmneaxjjwudiymdmov7arg.streamlit.app/
+
+project 9 = https://genderclassifierusingcnn-nm5ost6pxyvatvoh6tys6v.streamlit.app/
