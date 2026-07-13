@@ -11,3 +11,5 @@ project2 outliers = https://h5nmgpknm8txc8revuwuqr.streamlit.app/
 project 3 outliers = https://project-3-outliers-bsqfgys6v6vkxfafr8gjxd.streamlit.app/
 
 project 4 = https://project-4-logistic-regression-jmeme9725ljejaekxqthua.streamlit.app/
+
+project 5 = https://male-female-classifier-ckjykjkda92csek7ffzk6u.streamlit.app/
